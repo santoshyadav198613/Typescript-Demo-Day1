@@ -36,3 +36,7 @@ Steps to create a task
 1. fire tsc -init
 2. Go to Tasks-> Configure Default Build Task
 3. Go to Tasks-> Run Build Task
+
+Install Angular CLI
+1. npm install -g @angular/cli@latest
+2. ng new ShoppingApp-Edureka
