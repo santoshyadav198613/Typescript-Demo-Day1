@@ -1,0 +1,38 @@
+node
+npm 
+typescript
+
+npm install -g typescript
+
+NPM: Node Package Manager
+
+M - Mongo
+E - Express
+A - Angular
+N - Node
+
+Typescript
+1. You can generate es5 or es6 code
+2. Compile time errors
+3. Intellisence
+4. It is type safe
+5. It is superset of javascript
+
+
+
+
+Javascript
+1.No standards, not structured , no patterns
+2.Security
+3.Server side developers lacks knowledge
+4.no intellisence
+5.compilation is always on client machine
+6.javascript compilation 
+7.No type safety
+
+
+
+Steps to create a task
+1. fire tsc -init
+2. Go to Tasks-> Configure Default Build Task
+3. Go to Tasks-> Run Build Task
